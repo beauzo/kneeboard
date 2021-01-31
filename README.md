@@ -1,13 +1,13 @@
 # Kneeboard
-A collection of aircraft checklists, templates and documents used before, during and after flight.
+A collection of aircraft checklists, templates, and documents -- used before, during, and after flight.
 
 ## Cessna C172M Checklist
-This checklist has been optimized over numerous sorties. It borrows the best elements from multiple popular C172M checklists, and includes key elements of [AQP](https://flightchops.com/grassroots/) integrated throughout.
+The Cessna 172M checklist is based on the 1975 Cessna 172M "Skyhawk" Pilot Operating Manual (POH), has been honed over many sorties, and enriched with elements of [AQP](https://flightchops.com/grassroots/).
 
 ## In-Flight Notes Template
-My version of a popular kneeboard-sized note-taking template you'll find for sale on the Internet.
+I prefer pencil and paper over an EFB touchscreen. The kneeboard-sized, note-taking template is designed to help organize important information for all phases of flight, and to compliment the checklist and EFB as a reminder of what's expected next. It can be used for both VFR and IFR flights.
 
-Example of use:
+Example of use -- VFR cross-country from LAX to SAN:
 ![in-flight notes example](./in-flight_notes_example.jpg)
 
 ## macOS Print Settings and Folding Instructions
@@ -24,11 +24,11 @@ And here's how you fold them:
 
 # Bugs
 
-If you find an error, please submit an issue.
+If you find an error, please let me know by submitting an issue.
 
 # Contributions
 
 Contributions are welcome!
 
 # License
-GNU GPLv3
+The artifacts in this repository are licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
