@@ -2,7 +2,7 @@
 A collection of aircraft checklists, templates, and documents -- used before, during, and after flight.
 
 ## Cessna C172M Checklist
-The Cessna 172M checklist is based on the 1975 Cessna 172M "Skyhawk" Pilot Operating Manual (POH), has been honed over many sorties, and enriched with elements of [AQP](https://flightchops.com/grassroots/).
+The Cessna 172M checklist is based on the 1976 Cessna 172M "Skyhawk" Pilot Operating Manual (POH), has been honed over many sorties, and enriched with elements of [AQP](https://flightchops.com/grassroots/).
 
 ## In-Flight Notes Template
 I prefer pencil and paper over an EFB touchscreen. The kneeboard-sized, note-taking template is designed to help organize important information for all phases of flight, and to compliment the checklist and EFB as a reminder of what's expected next. It can be used for both VFR and IFR flights.
